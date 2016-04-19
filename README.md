@@ -1,5 +1,6 @@
 # palace_cop_bot
 
+Palace Skateboards.
 
 Ok so basically, you input some keywords in the script, 4 of them. The keyworks must match ONLY ONE item in the end, if two items are 
 left, nothing will be copped.
